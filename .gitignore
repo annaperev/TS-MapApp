@@ -1,0 +1,7 @@
+# These patterns are project specific, for your development environment-specific ignores
+# such as .idea or .DS_Store use a local gitignore file (git config --global core.excludesfile)
+
+
+node_modules
+dist
+.parcel-cache
